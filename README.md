@@ -1,4 +1,4 @@
-# Yo!, my name is Nithin!
+# Yo!, my name is Nithin
 ### <br>I am an aspiring Software Engineer. </br><br>I am currently pursuing my Master's degree in Computer Information Systems from Colorado State University 🇺🇸 🐐 </br>
 
 
